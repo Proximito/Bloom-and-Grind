@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #f6f0e6;
+  --color-sand: #ede3d3;
+  --color-paper: #fffcf7;
+  --color-espresso: #2b1d16;
+  --color-roast: #9a4718;
+  --color-bean: #4a3a30;
+  --color-muted: #6b5a4e;
+  --color-line: #e3d6c3;
+  --font-serif: "Georgia", "Times New Roman", serif;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-espresso);
+}
