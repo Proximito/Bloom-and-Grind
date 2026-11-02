@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800"><rect width="800" height="800" fill="#EAD9C6"/>
+<path d="M250 190 L550 190 L585 690 Q585 720 555 720 L245 720 Q215 720 215 690 Z" fill="#8C5530"/>
+<path d="M250 190 L550 190 L556 250 L244 250 Z" fill="#000" opacity="0.18"/>
+<rect x="270" y="360" width="260" height="210" rx="14" fill="#FBF6EE"/>
+<text x="400" y="425" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#3A2A21">House espresso blend</text>
+<text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#6B5A4E"></text>
+<text x="400" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" letter-spacing="3" fill="#9A4718">MEDIUM ROAST</text>
+<circle cx="400" cy="300" r="22" fill="#FBF6EE" opacity="0.9"/></svg>
